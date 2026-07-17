@@ -1,9 +1,11 @@
-# Responsive Watches Website ⌚
 
-- Responsive Watches Website Using HTML CSS & JavaScript
-- Smooth scrolling in each section.
-- Includes a dark and light mode.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+  # Luxury Watch E-commerce Website
 
+  This is a code bundle for Luxury Watch E-commerce Website. The original project is available at https://www.figma.com/design/Y5EjabjX5nyNelOgTnCJfY/Luxury-Watch-E-commerce-Website.
 
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
